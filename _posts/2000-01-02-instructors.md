@@ -26,18 +26,12 @@ fa-icon: info
     </a>
 </div>
 <div class="author">
-    <a href="https://github.com/santi-pdp" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/SantiPascual.jpg"></div>
-      <div>Santiago Pascual</div>
-    </a>
-</div>
-<br>
-<div class="author">
     <a href="https://imatge.upc.edu/web/people/veronica-vilaplana" target="_blank">
       <div class="authorphoto"><img src="img/instructors/VeronicaVilaplana.jpg"></div>
       <div>Veronica Vilaplana</div>
     </a>
 </div>
+<br>
 <div class="author">
     <a href="https://imatge.upc.edu/web/people/josep-ramon-morros" target="_blank">
       <div class="authorphoto"><img src="img/instructors/RamonMorros.jpg"></div>
