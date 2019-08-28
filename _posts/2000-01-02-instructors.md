@@ -50,5 +50,11 @@ fa-icon: info
       <div>Albert Pumarola</div>
     </a>
 </div>
+<div class="author">
+    <a href="https://torres.ai/" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/JordiTorres.jpg"></div>
+      <div>Jordi Torres</div>
+    </a>
+</div>
 <br>
 <br>
