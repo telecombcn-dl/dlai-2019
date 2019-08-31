@@ -14,7 +14,7 @@ Registration procedure depends on the student profile:
 Follow the regular schedule from your academic office. 
 
 * __Bachelor (grau) students at ETSETB and CFIS students__: 
-Do not register to this course but to ["Introduction to Deep Learning"](https://telecombcn-dl.github.io/2019-idl/), a lighter version of this course offered as a intensive Winter School between 22-28 January 2020. Chekc with your academic office.
+Do not register to this course but to ["Introduction to Deep Learning"](https://telecombcn-dl.github.io/2019-idl/), a lighter version of this course offered as a intensive Winter School between 22-28 January 2020. Check with your academic office.
 
 * __MSc Students at UPC but not in ETSETB__: Contact the your academic office and request being allowed to take this course. If accepted, contact [ETSETB academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta) and request more details.
 
