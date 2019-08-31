@@ -22,3 +22,4 @@ Do not register to this course but to ["Introduction to Deep Learning"](https://
 
 * __Other profiles (eg. industry members)__: This course is not addressed to this audience. If you are interested in this topic, we suggest you consider the postgraduate program in [Artificial Intelligence with Deep Learning][aidl-upcschool] from UPC School. This postgraduate extends the dep learning contents offered at UPC TelecomBCN. Next edition starts in November 2019.
 
+[aidl-upcschool]: https://www.talent.upc.edu/ing/estudis/formacio/curs/310400/postgrau-artificial-intelligence-deep-learning/
