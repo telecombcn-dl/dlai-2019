@@ -52,7 +52,7 @@ fa-icon: info
 </div>
 <div class="author">
     <a href="https://torres.ai/" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/JordiTorres.jpg"></div>
+      <div class="authorphoto"><img src="img/instructors/JordiTorres-160x160.jpg"></div>
       <div>Jordi Torres</div>
     </a>
 </div>
