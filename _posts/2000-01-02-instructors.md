@@ -58,3 +58,11 @@ fa-icon: info
 </div>
 <br>
 <br>
+
+### Labs developer
+<div class="author">
+    <a href="https://github.com/santi-pdp" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/SantiPascual.jpg"></div>
+      <div>Santiago Pascual</div>
+    </a>
+</div>
