@@ -7,7 +7,7 @@ fa-icon: check
 
 ## Practical details
 
-* Course on [Piazza](https://piazza.com/upc/fall2019/upc230706/home)
+* Course on [UPC Atenea](https://atenea.upc.edu/course/view.php?id=56105)
 * Study Programs: [Master MET](https://etsetb.upc.edu/ca/estudis/masters/master-en-enginyeria-de-telecomunicacio-met) & [Master MATT](https://telecos.upc.edu/ca/estudis/masters/masters-degree-in-advanced-telecommunication-technologies-matt) at ETSETB TelecomBCN from the [Universitat Politecnica de Catalunya](http://www.upc.edu/?set_language=en).
 * Course code and official guide: [230706 - DLAI](http://www.etsetb.upc.edu/documents/guia_docent/assignatures/all/ang/230706.pdf)
 * ECTS credits: 5 ECTS
