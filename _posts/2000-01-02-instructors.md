@@ -72,3 +72,12 @@ fa-icon: info
       <div>Daniel Fojo</div>
     </a>
 </div>
+
+### Guest Instructor
+
+<div class="author">
+      <div class="authorphoto"><img src="img/guests/YannisKalantidis-160x160.jpg"></div>
+      <div><a href="http://www.skamalas.com/" target="_blank">Yannis Kalantidis</a></div>
+</div>
+
+
