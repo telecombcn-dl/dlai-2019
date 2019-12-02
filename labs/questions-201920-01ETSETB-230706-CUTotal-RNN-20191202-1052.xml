@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top</text>
+
+    </category>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Categoria per defecte en 2019//20-01:ETSETB-230706-CUTotal</text>
+
+    </category>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Categoria per defecte en 2019//20-01:ETSETB-230706-CUTotal/Laboratory</text>
+
+    </category>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/Categoria per defecte en 2019//20-01:ETSETB-230706-CUTotal/Laboratory/RNN</text>
+
+    </category>
+  </question>
+
+<!-- question: 32412094  -->
+  <question type="multichoice">
+    <name>
+      <text>2) What does the RNN state contain?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Exercise 2</p><p>What does the RNN state contain?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p><span>The last activation in time at instant T: h[T]</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>The activation in the middle of the sequence T / 2 + 1 : h[T / 2 + 1]</p><p><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>The activation of all time-steps h[t]</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>The forget gate value at time instant T: f[T]<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 32412095  -->
+  <question type="multichoice">
+    <name>
+      <text>3.2) What is the output shape of the bidirectional output h[t] and why?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h3>Exercise 3.2</h3><p>What is the output shape of the bidirectional output h[t] and why?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>(batch_size, seq_len, 2 * rnn_size)<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>It is (batch_size, seq_len, 2 * rnn_size), having twice the output features per time-step because they are concatenations of both directions (forward, backward).<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>(batch_size, seq_len, rnn_size)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>(batch_size, 2 * seq_len, 2 * rnn_size)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>(batch_size, 2 * seq_len, rnn_size)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 32412096  -->
+  <question type="multichoice">
+    <name>
+      <text>3.3) Size of the bidirectional state</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h3>Exercise 3.3</h3><p>What is the output shape of the bidirectional state and why?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>(2, batch_size, rnn_size)<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>It is (2, batch_size, rnn_size), because it contains the last activation step per direction (first dimension), then per element in the batch, and finally per cell.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>(2, batch_size, 2 * rnn_size)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>(2, 2 * batch_size, rnn_size)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>(1, batch_size, rnn_size)<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 32412098  -->
+  <question type="multichoice">
+    <name>
+      <text>4.2) Activation at the output ?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h3>Exercise 4.2</h3><p>What is the appropriate activation in the output?</p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>nn.LogSoftmax(dim=-1)<br></p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>nn.LogSoftmax(dim=-1) because we face a classification problem, to be trained with the nn.NLLLoss()<br></p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>nn.ReLU()<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>nn.Sigmoid()</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>nn.Tanh()</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 32412097  -->
+  <question type="numerical">
+    <name>
+      <text>4.1) amount of outputs needed by the character predictio</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<h3>Exercise 4.1</h3><p>What is the amount of outputs needed by the character prediction model?<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>67</text>
+      <feedback format="html">
+        <text><![CDATA[<p>It corresponds to the vocabulary size.</p>]]></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <unitgradingtype>0</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>3</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+<!-- question: 32412049  -->
+  <question type="shortanswer">
+    <name>
+      <text>1) self.U=nn.Linear(rnn_size, rnn_size, bias=False)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Exercise 1</h3><p>Copy the line you wrote to replace the provided:</p><pre><div><div><div><div>self.U=TODO</div></div></div></div></pre><p>Please remove all unnecessary blank spaces in your answer.</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>self.U = nn.Linear(rnn_size, rnn_size, bias=False)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>self.U=nn.Linear(rnn_size,rnn_size,bias=False)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 32412172  -->
+  <question type="shortanswer">
+    <name>
+      <text>3.1) bi_rnn=nn.RNN(NUM_INPUTS,HIDDEN_SIZE,num_layers=1,batch_first=True,bidirectional=True)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p></p><h3>Exercise 3.1</h3><p>Copy the line you wrote to replace the provided:</p><pre><div><div><div><div>bi_rnn=TODO</div></div></div></div></pre><p>Please remove all unnecessary blank spaces in your answer.</p><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <usecase>0</usecase>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>bi_rnn=nn.RNN(NUM_INPUTS,HIDDEN_SIZE,num_layers=1,batch_first=True,bidirectional=True)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>bi_rnn = nn.RNN(NUM_INPUTS, HIDDEN_SIZE, num_layers=1, batch_first=True, bidirectional=True)</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
