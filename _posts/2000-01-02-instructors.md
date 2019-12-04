@@ -59,7 +59,7 @@ fa-icon: info
 <br>
 <br>
 
-### Labs developers
+### Lab developers
 <div class="author">
     <a href="https://github.com/santi-pdp" target="_blank">
       <div class="authorphoto"><img src="img/instructors/SantiPascual.jpg"></div>
