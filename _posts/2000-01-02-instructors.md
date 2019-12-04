@@ -72,6 +72,12 @@ fa-icon: info
       <div>Daniel Fojo</div>
     </a>
 </div>
+<div class="author">
+    <a href="https://www.albertpumarola.com/" target="_blank">
+      <div class="authorphoto"><img src="img/instructors/AlbertPumarola-160x160.jpg"></div>
+      <div>Albert Pumarola</div>
+    </a>
+</div>
 
 ### Guest Instructor
 
